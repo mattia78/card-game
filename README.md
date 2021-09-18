@@ -1,3 +1,7 @@
-# card-game
-5 players cards game. 40 cards
-bla blsa bls
+# Estrazione anomalie tassa rifiuti 
+Dal menù `RIFIUTI`: `4. riscossioni`--> `5. riepilogo incassi` 
+
+![img1](https://user-images.githubusercontent.com/7601546/133889345-b803bf12-ef06-4ef4-ad67-707dca2f5c8d.png)
+
+Togli il flag a `Solo pagati` e fai click su `Riepilogo scadenze`
+
